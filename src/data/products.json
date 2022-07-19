@@ -2,6 +2,7 @@
     {
         "id":1,
         "title":"Mate Imperial de Calabaza",
+        "description": "Esto es una descripcion del producto seleccionado en el carrito",
         "stock":10,
         "price":5000,
         "img":"https://d22fxaf9t8d39k.cloudfront.net/7f1bc31e3b67dc2038dec05e2915c9a31e748aff9233e38e7c0ae0b0683dcee1109209.png"
@@ -9,6 +10,7 @@
     {
         "id":2,
         "title":"Bombilla Pico de Loro",
+        "description": "Esto es una descripcion del producto seleccionado en el carrito",
         "stock":5,
         "price":1100,
         "img":"https://http2.mlstatic.com/D_NQ_NP_2X_927011-MLA41850319636_052020-F.webp"
@@ -16,6 +18,7 @@
     {
         "id":3,
         "title":"Termo Stanley Clásico",
+        "description": "Esto es una descripcion del producto seleccionado en el carrito",    
         "stock":15,
         "price":25000,
         "img":"https://www.machenaonline.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/1/2/12_2_29.png"
